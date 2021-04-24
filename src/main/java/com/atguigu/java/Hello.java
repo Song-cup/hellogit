@@ -11,5 +11,6 @@ public class Hello {
         System.out.println("分支1");
         System.out.println("分支2");
         System.out.println("主干添加1");
+        System.out.println("分支添加2");
     }
 }
